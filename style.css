@@ -1,0 +1,40 @@
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    text-align: center;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+h2 {
+    color: #2C3E50;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #E74C3C;
+    font-family: 'Georgia', serif;
+    text-align: center;
+}
+
+img {
+    margin: 10px auto;
+    border-radius: 5px;
+    display: block;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: none;
+}
+
+.jogadores {
+    text-align: center;
+}
