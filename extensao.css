@@ -1,0 +1,96 @@
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    text-align: center;
+    word-spacing: 4px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+h2 {
+    color: #2C3E50;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #E74C3C;
+    font-family: 'Georgia', serif;
+    text-align: center;
+}
+
+
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: none;
+}
+
+#header {
+    background: linear-gradient( #b62b01, #E74C3C);
+    padding: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo .titulo-header {
+    color: white;
+    font-size: 28px;
+    margin: 0;
+    font-family: 'Georgia', serif;
+    letter-spacing: 2px;
+}
+
+.navbar {
+    display: flex;
+    gap: 30px;}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+
+
+
+.jogadores {
+    text-align: center;
+}
+
+.imghome {
+    margin: 10px auto;
+    border-radius: 5px;
+    display: block;
+}
+
+.imgidolos {
+    margin: 10px auto;
+    border-radius: 5px;
+    display: block;
+    width: 200px;
+    height: auto;
+    
+}
